@@ -10,14 +10,17 @@ A Dockerized ETL pipeline that fetches daily stock market data for AAPL from Alp
 1. Clone the repository:
 ```
 git clone <your-repo-url>
-cd stock-etl-pipeline```
+cd stock-etl-pipeline
+```
 
 2. Create a .env file with your API key:
 ```
-ALPHA_VANTAGE_API_KEY=your_api_key```
+ALPHA_VANTAGE_API_KEY=your_api_key
+```
 
 3. Build and run the Docker container:
 ```
-docker-compose up --build```
+docker-compose up --build
+```
 
 
