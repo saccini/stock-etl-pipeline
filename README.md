@@ -9,7 +9,7 @@ A Dockerized ETL pipeline that fetches daily stock market data for AAPL from Alp
 ## Setup
 1. Clone the repository:
 ```
-git clone https://github.com/saccini/stock-etl-pipeline
+git clone <your-repo-url>
 cd stock-etl-pipeline
 ```
 
